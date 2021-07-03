@@ -1,4 +1,4 @@
-"# EmpRegistrationSpringMVC"
+"# Employee Registration Spring MVC"
 
 Run As
 |-> Maven build...
