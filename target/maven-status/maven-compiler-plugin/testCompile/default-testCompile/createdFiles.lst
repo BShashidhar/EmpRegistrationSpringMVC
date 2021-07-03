@@ -1,0 +1,5 @@
+com\springmvc\dao\EntityDaoImplTest.class
+com\springmvc\controller\AppControllerTest.class
+com\springmvc\dao\EmployeeDaoImplTest.class
+com\springmvc\service\EmployeeServiceImplTest.class
+com\springmvc\configuration\HibernateTestConfiguration.class
